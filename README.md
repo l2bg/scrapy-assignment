@@ -1,2 +1,2 @@
 # scrapy-assignment
-Scrapy coce assignment for Zyte
+Scrapy code assignment for Zyte
